@@ -1,11 +1,19 @@
-console.log('Hola');
+1
+// let name = "John";
+// let admin = name;
 
-console.log(2+7)
+2
 
-let date = new Date();
 
-console.log('Hoy es ' + date);
-console.log(`Today's day is ${date}`)
+3
+// const birthday = '18.04.1982';
+// const age = someCode(birthday);
 
-document.body.innerHTML = `<h1>Today's date is ${date}</h1>`;
-document.body.style.backgroundColor = 'lightblue';
+4
+// let name = "Ilya";
+// alert(`hello ${name}`);
+
+
+
+
+
